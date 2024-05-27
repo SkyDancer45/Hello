@@ -23,3 +23,4 @@
 /home/kanishk/Documents/dotnet/GameStore.Api/obj/Debug/net8.0/GameStore.Api.pdb
 /home/kanishk/Documents/dotnet/GameStore.Api/obj/Debug/net8.0/GameStore.Api.genruntimeconfig.cache
 /home/kanishk/Documents/dotnet/GameStore.Api/obj/Debug/net8.0/ref/GameStore.Api.dll
+/home/kanishk/Documents/dotnet/GameStore.Api/obj/Debug/net8.0/GameStore.Api.sourcelink.json
